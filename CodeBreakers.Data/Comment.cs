@@ -23,6 +23,5 @@ namespace CodeBreakers.Data
         [Required]
         public int PostId { get; set; }
         public virtual Post CommentPost { get; set; }
-        //Post CommentPost
     }
 }
