@@ -54,11 +54,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Post\PostCreate.cs" />
+    <Compile Include="Post\PostListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CodeBreakers.Data\CodeBreakers.Data.csproj">
+      <Project>{85480BA6-0639-4298-91CA-4F81757B2FE7}</Project>
+      <Name>CodeBreakers.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
