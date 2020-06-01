@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using CodeBreakersAPI.Models;
 using CodeBreakersAPI.Providers;
 using CodeBreakersAPI.Results;
+using CodeBreakers.Data;
 
 namespace CodeBreakersAPI.Controllers
 {

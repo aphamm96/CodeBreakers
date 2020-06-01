@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using CodeBreakersAPI.Providers;
 using CodeBreakersAPI.Models;
+using CodeBreakers.Data;
 
 namespace CodeBreakersAPI
 {
