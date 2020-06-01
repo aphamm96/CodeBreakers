@@ -207,6 +207,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PostController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -310,6 +311,14 @@
     <ProjectReference Include="..\CodeBreakers.Data\CodeBreakers.Data.csproj">
       <Project>{85480BA6-0639-4298-91CA-4F81757B2FE7}</Project>
       <Name>CodeBreakers.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeBreakers.Models\CodeBreakers.Models.csproj">
+      <Project>{1A5B3A7D-7D43-487A-A59E-703A47477A18}</Project>
+      <Name>CodeBreakers.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeBreakers.Services\CodeBreakers.Services.csproj">
+      <Project>{DCB58EC4-E61C-4702-A636-F60C788D7511}</Project>
+      <Name>CodeBreakers.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
