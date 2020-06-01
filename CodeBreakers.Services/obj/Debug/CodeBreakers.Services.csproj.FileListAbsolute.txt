@@ -1,0 +1,16 @@
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\CodeBreakers.Services.dll.config
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\CodeBreakers.Services.dll
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\CodeBreakers.Services.pdb
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\EntityFramework.dll
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\EntityFramework.xml
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\obj\Debug\CodeBreakers.Services.csprojAssemblyReference.cache
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\obj\Debug\CodeBreakers.Services.csproj.CoreCompileInputs.cache
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\obj\Debug\CodeBreakers.Services.csproj.CopyComplete
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\obj\Debug\CodeBreakers.Services.dll
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakers.Services\obj\Debug\CodeBreakers.Services.pdb
