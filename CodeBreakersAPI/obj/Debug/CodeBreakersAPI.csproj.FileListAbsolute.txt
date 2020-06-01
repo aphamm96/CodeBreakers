@@ -1,0 +1,2 @@
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakersAPI\obj\Debug\CodeBreakersAPI.csprojAssemblyReference.cache
+C:\Users\nucl3\source\repos\CodeBreakersAPI\CodeBreakersAPI\obj\Debug\CodeBreakersAPI.csproj.CoreCompileInputs.cache

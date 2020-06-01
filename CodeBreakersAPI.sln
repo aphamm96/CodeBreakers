@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakersAPI", "CodeBrea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakers.Models", "CodeBreakers.Models\CodeBreakers.Models.csproj", "{1A5B3A7D-7D43-487A-A59E-703A47477A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakersAPI.Data", "CodeBreakers.Data\CodeBreakersAPI.Data.csproj", "{85480BA6-0639-4298-91CA-4F81757B2FE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakers.Data", "CodeBreakers.Data\CodeBreakers.Data.csproj", "{85480BA6-0639-4298-91CA-4F81757B2FE7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakers.Services", "CodeBreakers.Services\CodeBreakers.Services.csproj", "{DCB58EC4-E61C-4702-A636-F60C788D7511}"
 EndProject
